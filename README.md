@@ -1,1 +1,1 @@
-bu program metrokart balansini idare etmek ucun Oythonda yazilmis simulyatordur
+bu program metrokart balansini idare etmek ucun Pythonda yazilmis simulyatordur
